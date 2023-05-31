@@ -20,3 +20,6 @@
 ###< symfony/phpunit-bridge ###
 
 /composer.lock
+/.env.test
+/dump.sql
+/symfony.lock
